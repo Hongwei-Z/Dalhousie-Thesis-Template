@@ -14,7 +14,8 @@ This enhanced template includes the following components:
 - **Syntax**: Frequently used syntax, commands, symbols, etc.   
 - **Figures & Tables**: Examples of inserting figures and tables, detailed commands and syntax explanations.  
 - **Lists**: Proper formatting for ordered and unordered lists.  
-- **Code Blocks**: Two different styles to show code blocks.    
+- **Code Blocks**: Two different styles to show code blocks.
+- **Algorithms or pseudo-code**: Simple case demonstration.
 - **Acronyms**: Efficient handling of acronyms and abbreviations.  
 - **Mathematical Formulas**: Properly formatted equations using LaTeX math syntax.
 - **Citations & References**: Convenient and efficient reference insertion, management, display, and citation method.   
