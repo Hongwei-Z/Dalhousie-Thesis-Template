@@ -42,4 +42,4 @@ This customized template is based on the official Dalhousie University thesis te
 
 For feedback and improvements, feel free to contribute or reach out!  
 
-March 17, 2025
+May 4, 2025
